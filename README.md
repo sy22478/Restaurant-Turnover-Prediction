@@ -29,8 +29,6 @@ Optuna
 
 Project Structure
 
-(Details about the specific files and their organization within the repository would be listed here if this were a real project. For example:)
-
 data/: Contains the training and testing datasets.
 
 notebooks/: Includes Jupyter notebooks for data exploration, feature engineering, model training, and ensemble creation.
@@ -44,7 +42,7 @@ requirements.txt: Lists the project dependencies.
 Getting Started
 
 Clone the repository:
-git clone [repository URL]
+git clone
 
 Install dependencies:
 pip install -r requirements.txt
@@ -65,5 +63,5 @@ Analyze the individual model predictions to gain insights into their strengths a
 
 Contact
 
-Your Name/Team Name
-Your Email/Contact Information
+Sonu Yadav
+sonu.yadav19997@gmail.com
